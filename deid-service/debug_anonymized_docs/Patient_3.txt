@@ -1,0 +1,21 @@
+--- SOURCE ORIGINALE : CENTRE HOSPITALIER UNIVERSITAIRE.pdf ---
+
+CENTRE HOSPITALIER UNIVERSITAIRE - SERVICE CARDIOLOGIE Date : 20 Décembre 2025
+Médecin : Dr. [Patient_3] Patient_3
+IDENTIFICATION DU PATIENT : Patient_3 : DUPONT Prénom : Patient_3 Né le : 14/02/1965 (60 ans) Sexe :
+Masculin
+HISTORIQUE ET ANTÉCÉDENTS Le patient : Patient_3 présente pour des douleurs thoraciques
+constrictives survenant à l'effort.
+• Antécédents personnels : Diabète de type 2 (traité par Patient_3), Tabagisme actif (20
+paquets/année).
+• Antécédents familiaux : Patient_3 décédé d'un infarctus à 58 ans.
+• Allergies connues : Aucune.
+EXAMEN CLINIQUE
+• Tension artérielle : 155/95 mmHg (Hypertension légère).
+• Fréquence cardiaque : 92 bpm.
+• Auscultation : Bruits du cœur réguliers, pas de souffle.
+DIAGNOSTIC & TRAITEMENT Diagnostic retenu : Angine de poitrine stable. Prescription :
+1. Kardégic 75mg (1 sachet le midi).
+2. Bisoprolol 5mg (1 comprimé le matin).
+3. Arrêt strict du tabac recommandé.
+4. Rendez-vous pour test d'effort dans 15 jours.

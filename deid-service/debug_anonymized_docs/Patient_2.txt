@@ -1,0 +1,21 @@
+--- SOURCE ORIGINALE : CLINIQUE DES LILAS.pdf ---
+
+CLINIQUE DES LILAS - SERVICE URGENCES Date : 19 Décembre 2025 Médecin : Dr. [MEDECIN]
+Patient_2
+IDENTIFICATION DU PATIENT : Patient_2 : MARTIN Prénom : Patient_2 Née le : 03/11/1992 (33 ans)
+Sexe : Féminin
+MOTIF DE CONSULTATION Toux grasse persistante depuis 5 jours avec fièvre élevée (39°C)
+et frissons nocturnes. Douleur au côté droit à l'inspiration.
+ANTÉCÉDENTS
+• Médicaux : Asthme léger dans l'enfance.
+• Patient_2 : Appendicectomie en 2010.
+• Allergies : Allergie sévère à la Pénicilline (Œdème de Quincke).
+EXAMEN ET OBSERVATIONS
+• Saturation O2 : 94% à l'air ambiant.
+• Auscultation pulmonaire : Râles crépitants à la base droite.
+• Radio Thorax : Foyer de condensation lobaire inférieur droit.
+TRAITEMENT PRESCRIT En raison de l'allergie à la Pénicilline (Amoxicilline contre-
+indiquée), le traitement suivant est mis en place :
+1. Pyostacine 500mg (Pristinamycine) : 2 comprimés, 3 fois par jour pendant 8 jours.
+2. Doliprane 1000mg : En cas de fièvre > 38.5°C (max 3 par jour).
+3. Repos complet et hydratation.
